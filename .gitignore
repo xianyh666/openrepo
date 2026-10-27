@@ -1,0 +1,8 @@
+.env
+.venv/
+.idea/
+chroma_db/
+chat_history/
+__pycache__/
+*.pyc
+=
